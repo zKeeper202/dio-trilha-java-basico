@@ -1,3 +1,9 @@
+# Tipos e Variaveis
+
+## Tipos de dados
+
+Em Java existem algumas palavras reservadas para representar tipos de dados basicos que precisam ser manipulados pra construcao de programas. Esses tipos de dados sao chamados de primitivos e sao 8: int, byte, short, long, float, double, boolean e char - Nao sao considerados objetivos e representam valores brutos, nao referencias na memoria; sendo armazenados na Memory Stack. 
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.

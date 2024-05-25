@@ -1,0 +1,3 @@
+glysns.gitbook.iio/java-basico/sintaxe/anatomia-das-classes
+
+Java Beans - Convenção do publico usuario de Java, para facilitar e padronizar leitura e interpretação dos códigos
